@@ -1,0 +1,608 @@
+body
+{ 
+    
+    background-color: white;
+}
+.logo{
+    padding-left: 50px;
+}
+.Page{
+    padding-left: 250px;
+    font-size: 16px;
+}
+.Page2{
+    padding-left: 30px;
+    font-size: 16px;
+    text-emphasis-color: black;
+
+}
+a:link, a:visited {
+    
+    color: black;
+    text-decoration: black;
+    font-family: Arial, sans-serif;
+    font-weight: 545;
+}
+.container{
+    position: relative;
+    text-align: center;
+    color: white;
+}
+.left{
+    position: absolute;
+    top: 170px;
+    left: 190px;
+    font-size: 60px;
+    font-family: Arial, sans-serif;
+    font-weight: bolder;
+    text-align: left;
+}
+.Subtext{
+    position: absolute;
+    top: 320px;
+    left: 130px;
+    font-size: 17px;
+    padding-left: 60px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.logo1{
+    position: absolute;
+    top: 21px;
+    left: 800px;
+}
+.a{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    padding-left: 100px;
+    padding-top: 120px; 
+    height: 0px;
+    
+}
+.b{
+    font-family: Arial, sans-serif;
+    font-size: 35px;
+    padding-left: 100px;
+    height: 0px;
+    padding-bottom: 100px;
+   
+}
+.c{
+    font-family: Arial, Helvetica, sans-serif;
+    width: 15cm; margin: 0.5em; white-space: normal; 
+    padding-left: 95px;
+    padding-bottom: 20px;
+    font-weight: 100;
+}
+.d{
+    font-family: Arial, Helvetica, sans-serif;
+    width: 15cm; margin: 0.5em; white-space: normal; 
+    padding-left: 95px;
+    padding-bottom: 20px;
+}
+.e{
+    font-family: Arial, Helvetica, sans-serif;
+    width: 15cm; margin: 0.5em; white-space: normal;  
+    padding-left: 95px;    
+}
+.courses{
+    position: absolute;
+    top: 720px;
+    left: 130px;
+    font-size: 20px;
+    padding-left: 700px;
+    font-family: Arial, sans-serif;
+    width: 450px;
+}
+.f{
+      padding-left: 100px;
+      padding-top: 60px;
+      font-family: Arial, Helvetica, sans-serif;
+      font-size: 15px;
+      font-weight: 600;
+      padding-bottom: 0px;
+}
+.g{ position: absolute;
+      left: 100px;
+      font-family: Arial,sans-serif;
+      font-size:40px;
+      top:1180px;
+}
+.AllCourses:link, .AllCourses:visited
+{ 
+        color: white;
+        text-decoration: white;
+        font-family: Arial, sans-serif;
+        font-weight: 700;
+        position: absolute;
+        left: 1000px;
+        top: 1200px;
+        background-color: #04153e; 
+        width: 110px; height: 35px;
+        font-size: 14.5px;
+        padding: 25px 0px 0px 45px;
+}
+.eye{
+        width: 20px;
+        position: absolute;
+        top: 1206px;
+        left: 1020px;
+        padding: 16px 25px 25px 0px;
+}
+.SI{
+    position: relative;
+    top: 150px;
+    left:100px;
+    width: 350px;
+}
+.RAS{
+    position: relative;
+    top: 150px;
+    left:150px;
+    width: 350px;
+}
+.Patwar{
+    position: relative;
+    top: 150px;
+    left:200px;
+    width: 350px;
+}
+.SItext{
+    position: absolute;
+    top: 1670px;
+    left:110px;
+    font-size: 18px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 600;
+}
+.RAStext{
+    position: absolute;
+    top: 1670px;
+    left:520px;
+    font-size: 18px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 600;
+}
+.Patwartext{
+    position: absolute;
+    top: 1670px;
+    left: 930px;
+    font-size: 18px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 600;
+}
+.CourseStreak:link,.CourseStreak:visited{
+    color: white;
+        text-decoration: white;
+        font-family: Arial, sans-serif;
+        font-weight: 700;
+        position: absolute;
+        left: 620px;
+        top: 1800px;
+        background-color: #04153e; width: 110px; height: 35px;
+        font-size: 14.5px;
+        padding: 25px 0px 0px 45px;
+}
+.cortana{
+    width: 20px;
+        position: absolute;
+        top: 1806px;
+        left: 640px;
+        padding: 16px 25px 25px 0px;
+}
+.Audience{
+    width: 50px;
+    position: absolute;
+    top: 2100px;
+    left: 255px;
+    
+}
+
+.Success{
+    width: 50px;
+    position: absolute;
+    top: 2120px;
+    left: 250px;
+    text-align: center;
+    text-decoration: white; 
+    color: white;
+    font-size: 40px;
+
+}
+.Year{
+    width: 50px;
+    position: absolute;
+    top: 2190px;
+    left: 210px;
+    width: 137px;
+    text-decoration: white; 
+    color: white;
+    font-size: 20px;
+}
+.colorstrip{
+    width: 100%; height: 300px;
+    border-style: solid;
+    border-color: #04153e;
+    background-color: #04153e;
+    color: #04153e;
+    position: absolute;
+    top: 2000px;
+}
+.Scholar{
+    width: 60px;
+    position: absolute;
+    top: 2090px;
+    left: 500px;
+    
+}
+.Number{
+    width: 50px;
+    position: absolute;
+    top: 2120px;
+    left: 500px;
+    width: 137px;
+    font-size: 40px;
+    text-decoration: white;
+    color: white;
+}
+.Selections{
+    position: absolute;
+    top: 2190px;
+    left: 470px;
+    width: 137px;
+    font-size: 20px;
+    text-decoration: white;
+    color: white;
+}
+.Education{
+    width: 120px;
+    position: absolute;
+    top: 2070px;
+    left: 750px; 
+}
+.globe{
+    width: 50px;
+    position: absolute;
+    top: 2090px;
+    left: 1050px; 
+}
+.Expert{
+    position: absolute;
+    top: 2120px;
+    left: 780px;
+    width: 137px;
+    font-size: 40px;
+    text-decoration: white;
+    color: white;
+}
+.Team{
+    position: absolute;
+    top: 2187px;
+    left: 760px;
+    width: 137px;
+    font-size: 20px;
+    text-decoration: white;
+    color: white;
+}
+.Earth{
+    position: absolute;
+    top: 2120px;
+    left:1030px;
+    width: 137px;
+    font-size: 40px;
+    text-decoration: white;
+    color: white;
+}
+.Guided{
+    position: absolute;
+    top: 2187px;
+    left: 1020px;
+    width: 137px;
+    font-size: 20px;
+    text-decoration: white;
+    color: white;
+}
+.Category{
+    position: absolute;
+    top: 2400px;
+    left: 150px;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.Browse{
+    position: relative;
+    top: 920px;
+    left: 139px;
+    font-weight: bold;
+    font-size: 40px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.Prep{
+    position: relative;
+    top: 880px;
+    left: 139px;
+    font-weight: bold;
+    font-size: 40px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.View:link,.View:visited{
+    color: white;
+        text-decoration: white;
+        font-family: Arial, sans-serif;
+        font-weight: 700;
+        position: absolute;
+        left: 1000px;
+        top: 2480px;
+        background-color: #04153e; 
+        width: 90px; height: 35px;
+        font-size: 14.5px;
+        padding: 20px 0px 0px 45px;
+}
+.Retina
+{
+    width: 20px;
+        position: absolute;
+        top: 2483px;
+        left: 1020px;
+        padding: 16px 25px 25px 0px;
+}
+.Engineering{
+    position: relative;
+    top: 900px;
+    left: 130px;
+    height: 250px;
+    border-radius: 10px;
+}
+.Management{
+    position: relative;
+    top: 900px;
+    height: 250px;
+    left: 150px;
+    border-radius: 10px;
+}
+.Engine{
+    position: relative;
+    top: 900px;
+    left: 180px;
+    height: 250px;
+    border-radius: 10px;
+}
+.Manage{
+    position: relative;
+    top: 900px;
+    height: 250px;
+    left: 200px;
+    border-radius: 10px;
+}
+
+.Connection{
+    position: relative;
+    top: 930px;
+    left: 600px;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.Opinion{
+    position: absolute;
+    top: 2915px;
+    left: 550px;
+    font-size: 40px;
+    font-weight: 600;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.Director{
+    position: absolute;
+    top: 2990px;
+    left: 560px;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.Instructor:link,.Instructor:visited{
+    position: absolute;
+    top: 3070px;
+    left: 620px;
+    color: white;
+        text-decoration: white;
+        font-family: Arial, sans-serif;
+        font-weight: 600;
+        background-color: #04153e; width: 140px; height: 35px;
+        font-size: 14.5px;
+        padding: 25px 0px 0px 45px;
+}
+.Focused{
+    position: absolute;
+    top:3200px;
+    width:100%;
+    height:300px; 
+}
+.cheerful{
+    position: relative;
+    top: 1250px;
+    color: white;
+    text-align: center;
+    font-size: 20px;
+}
+.Teacher{
+    position: relative;
+    top: 1250px;
+    left: 800px;
+    width: 100px;
+    border-radius: 100%;
+}
+.Explore{
+    position: relative;
+    top: 1330px;
+    left: 130px ;
+    font-size: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 600;
+}
+.Insights{
+    position: absolute;
+    top: 3570px;
+    left: 135px;
+    font-size:40px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 700;
+}
+.Axis{
+         position: absolute;
+         top: 3700px;
+         left: 140px;
+         width: 21%;
+         border-radius: 4px;
+}
+.Solidarity{
+    position: absolute;
+    top: 3700px;
+    left: 510px;
+    width: 21%;
+}
+.Landmarks{
+    position: absolute;
+    top: 3700px;
+    left:880px;
+    width: 21%;
+
+}
+.Platform{
+    position: relative;
+    top: 1700px;
+    left: 140px;
+    font-size: 25px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 600;
+}
+.future{
+    position: relative;
+    top: 1530px;
+    left: 520px;
+    font-size: 25px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 600;
+}
+.More{
+    position: relative;
+    top: 1365px;
+    left: 900px;
+    font-size: 25px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 600;
+}
+.footer{
+    position: relative;
+    top: 1400px;
+    width: 1400px;
+    height: 400px;
+}
+.Contact{
+    position: relative;
+    top:1000px;
+    left: 140px;
+    font-size: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+}
+.Us{
+    position: relative;
+    top: 1000px;
+    left: 140px;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+}
+.Support{
+    position: relative;
+    top: 800px;
+    left: 520px;
+    font-size: 40px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+}
+.Home{
+    position: relative;
+    top: 800px;
+    left: 520px;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+
+}
+.Mobile{
+    position: relative;
+    top: 830px;
+    left: 460px;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+}
+.AboutUs{
+    position: relative;
+    top: 860px;
+    left: 358px;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+}
+.Admission{
+    position: relative;
+    top: 890px;
+    left: 272px;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+}
+.useful{
+    position: relative;
+    top: 650px;
+    left: 900px;
+    font-size: 40px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+}
+.Class{
+    position: relative;
+    top: 600px;
+    left: 900px;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.Blog{
+    position: relative;
+    top:650px;
+    left: 822px;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.Ourteam{
+    position: relative;
+    top: 700px;
+    left: 777px;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.Gallery{
+    position: relative;
+    top: 750px;
+    left: 685px;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.Video{
+    position: relative;
+    top: 800px;
+    left: 620px;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.final{
+    position: relative;
+    top: 800px;
+    left: 190px;
+}
+.finaltext{
+    position: relative;
+    top: 800px;    
+    left: 450px;
+    color: white;
+}
+
